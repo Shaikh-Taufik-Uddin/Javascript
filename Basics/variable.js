@@ -1,0 +1,15 @@
+a = 10;
+console.log(a + 10);
+console.log(a);
+a = "taufik";
+console.log(a);
+a = 20.7;
+console.log(a);
+b = 5;
+b++;
+b *= a;
+console.log(b);
+console.log(++b);
+console.log(a, b);
+console.log("The value to be printed is", a, "and the next is", b);
+console.log("The value to be printed is"+a+"and the next is"+b);
